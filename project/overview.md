@@ -1,0 +1,9 @@
+---
+title: Overview of the project
+---
+
+Cyber-attacks have become a severe threat for critical services in several domains, such as healthcare, manufacturing, telecom, energy, transportation, where the impact can be exceedingly high (e.g., in terms of service outages, private data breaches, intellectual property theft). Modern attacks are today very challenging, as they evolved into "Advanced Persistent Threats" (APTs). APT actors are typically cybercriminal or state-sponsored groups, which perform carefully-planned, stealthy attacks that span over a long period of time. A well-known example is the Stuxnet attack, which has been sabotaging Iran's nuclear centrifuges since 2005, and was uncovered in 2010.
+
+Unfortunately, the APT threat landscape is continuously evolving, as attackers develop new tactics and techniques. This trend puts both researchers and organizations at disadvantage, since it is difficult for them to stay up-to-date with emerging APT attacks. Moreover, most organizations are unwilling to share data about attacks they have experienced, because of concerns about disclosing sensitive data. This is a huge opportunity loss, both for the scientific community and for the organizations themselves: scientists are unable to assess new countermeasures on real-world attacks, which hinders scientific progress; organizations are unable to timely update their attack detectors against emerging APT campaigns.
+
+The project will investigate new techniques for automatically generating new representative datasets of APT attacks, without forcing organizations to disclose their sensitive information. The project will provide new, ready-to-use open-science datasets about APT attacks. Moreover, it will enable the research community and public/private organizations to generate more datasets in the future, to keep up with the evolution of APTs. Finally, it will provide support for training and educational activities in cyber-security.
