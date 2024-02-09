@@ -16,9 +16,9 @@ This workshop aims to provide a forum for researchers from academia and industry
 
 # Call for talks
 
-The workshop is open to <b>your proposal for a talk</b> at the workshop. To submit a proposal, please send an email to the organizers (see below), with subject <i>"[ITASEC 24] Workshop Talk Proposal"</i>. Please include a title, abstract, and biography of the speaker(s).
+The workshop is open to <b>your proposal for a talk</b> at the workshop. To submit a proposal, please send an email to the organizers (see below), with subject <i>"[ITASEC 24] Workshop Talk Proposal"</i>. Please include a title, abstract, and biography of the speaker(s). Please submit your proposal by March 17, 2024.
 
-Proposals will be evaluated based on the relevance and timeliness of the proposal with respect to the topics of the workshop, on the potential impact of insights and results on the research community, and on the background and experience of the speakers.
+Proposals will be evaluated based on the relevance and timeliness of the proposed topic, on the potential impact of insights and results on the research community, and on the background and experience of the speakers.
 
 We do not require the submission of papers for the workshop, in order to also include presentations of early-stage ideas and results that are not yet mature for publication. The workshop will aim for lightweight exchange of ideas and networking.
 
