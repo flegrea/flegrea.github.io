@@ -1,5 +1,5 @@
 ---
-title: Workshop on Generative AI for Addressing Advanced Persistent Threats
+title: Workshop on AI for addressing Advanced Persistent Threats (AI-APT)
 subtitle: |-
     co-located withe the Italian Conference on Cybersecurity (ITASEC24)
     April, 8th to 11th 2024, Salerno, Italy
@@ -11,7 +11,7 @@ Cyber-attacks have become a severe threat for critical services in several domai
 
 Unfortunately, the APT threat landscape is continuously evolving, as attackers develop new tactics and techniques. This trend puts both researchers and organizations at disadvantage, since it is difficult for them to stay up-to-date with emerging APT attacks. Moreover, most organizations are unwilling to share data about attacks they have experienced, because of concerns about disclosing sensitive data. This is a huge opportunity loss, both for the scientific community and for the organizations themselves: scientists are unable to assess new countermeasures on real-world attacks, which hinders scientific progress; organizations are unable to timely update their attack detectors against emerging APT campaigns.
 
-This workshop aims to provide a forum for researchers from academia and industry about the use of Generative AI to address these challenges. Recent advances in Generative AI, such as Large Language Models, provides a valuable opportunity to generate new representative datasets of APT attacks, without forcing organizations to disclose their sensitive information.
+This workshop aims to provide a forum for researchers from academia and industry about the use of AI to address these challenges, with emphasis on Generative AI. Recent advances in Generative AI, such as Large Language Models, provides a valuable opportunity to generate new representative datasets of APT attacks, without forcing organizations to disclose their sensitive information.
 
 
 # Call for talks
