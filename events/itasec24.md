@@ -1,8 +1,8 @@
 ---
 title: Workshop on AI for addressing Advanced Persistent Threats (AI-APT)
 subtitle: |-
-    co-located withe the Italian Conference on Cybersecurity (ITASEC24)
-    April, 8th to 11th 2024, Salerno, Italy
+    co-located with the Italian Conference on Cybersecurity (ITASEC24)
+    April 8th, 2024, Salerno, Italy
 ---
 
 # Motivation and background
@@ -36,6 +36,12 @@ Topics of interest include, but are not limited to:
 <li>Benchmarks and experiments on Generative AI for cybersecurity</li>
 <li>Practical case studies</li>
 </ul>
+
+
+
+# Attending the workshop
+
+The workshop will be held in conjunction with the Italian Conference on Cybersecurity (ITASEC), on April 8th, 2024. Participants need to register to the conference, either for just the day of the workshop (one-day registration) or for the full period of the conference (April 8-11). For more information about the conference, please refer to <a href="https://itasec.it">https://itasec.it</a>.
 
 
 # Technical Programme Committee
