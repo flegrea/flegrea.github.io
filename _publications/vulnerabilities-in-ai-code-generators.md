@@ -3,6 +3,7 @@ title: "Vulnerabilities in AI Code Generators: Exploring Targeted Data Poisoning
 pubvenue: 32nd IEEE/ACM International Conference on Program Comprehension (ICPC)
 authors: D. Cotroneo, C. Improta, P. Liguori, R. Natella
 link: https://doi.org/10.1145/3643916.3644416
+arxiv: https://arxiv.org/abs/2308.04451
 date: April 2024
 dataset: PoisonPy
 ---

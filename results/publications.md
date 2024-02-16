@@ -10,9 +10,12 @@ title: Publications
   <li>Published at: {{ paper.pubvenue }}</li>
   <li>Authors: <i>{{ paper.authors }}</i></li>
   <li>Date: <i>{{ paper.date | date_to_string }}</i></li>
-  <li>Link: <a href="{{ paper.link }}">{{ paper.link }}</a></li>
 
   </ul>
+
+  {% assign dataset = site.datasets | where:"name", paper.dataset | first %}
+
+  {% if dataset.link %} <a href="{{ dataset.link }}" target="_blank"><img src="/assets/images/button_dataset.png"></a> {% endif %} {% if paper.link %} <a href="{{ paper.link }}" target="_blank"><img src="/assets/images/button_publisher.png"></a> {% endif %} {% if paper.arxiv %} <a href="{{ paper.arxiv }}" target="_blank"><img src="/assets/images/button_arxiv.png"></a> {% endif %}
 
   <p>{{ paper.content | markdownify }}</p>
 
