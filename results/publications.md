@@ -14,6 +14,6 @@ title: Publications
 
   </ul>
 
-  <p>{{ paper.abstract | markdownify }}</p>
+  <p>{{ paper.content | markdownify }}</p>
 
 {% endfor %}
