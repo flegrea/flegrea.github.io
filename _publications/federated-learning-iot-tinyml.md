@@ -1,0 +1,10 @@
+---
+title: "Federated Learning for IoT devices: Enhancing TinyML with on-board training"
+pubvenue: Information Fusion
+authors: M. Ficco, A. Guerriero, E. Milite, F. Palmieri, R. Pietrantuono, S. Russo
+link: https://doi.org/10.1016/j.inffus.2023.102189
+date: April 2024
+---
+The spread of the Internet of Things (IoT) involving an uncountable number of applications, combined with the rise of Machine Learning (ML), has enabled the rapid growth of pervasive and intelligent systems in a variety of domains, including healthcare, environment, railway transportation and Industry 4.0. While this opens up favorable scenarios, it also raises new challenges. The huge amount of data collected and processed by ML applications requires efficient and scalable solutions that contrast with the constrained capabilities of IoT devices as for memory, power consumption, processing and network bandwidth. The TinyML technologies foster the adoption of ML algorithms running locally on IoT devices. However, they typically foresee a remote training process (e.g., on cloud servers) combined with local inference – a strategy not always viable, e.g., for privacy and security issues.
+
+We present a technique to enable the on-board training of ML algorithms on IoT devices, through the combination of federated learning (FL) and transfer learning (TL). We experimentally analyze it in classification and regression problems, comparing it to traditional FL solutions, as well as with a consolidated technique based on Tensorflow Lite. Results show that FL with TL reaches accuracy values better than FL without TL in both classification (86.48%) and regression (0.0201). These results are comparable with a model trained on the full dataset. We further analyze training and inference time and power consumption on various devices. Finally, we evaluate how the performance changes with unbalanced training datasets, showing that although they strongly impact accuracy, FL makes models more robust, letting them achieve accuracy comparable to when trained on balanced datasets.
