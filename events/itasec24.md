@@ -13,6 +13,48 @@ Unfortunately, the APT threat landscape is continuously evolving, as attackers d
 
 This workshop aims to provide a forum for researchers from academia and industry about the use of AI to address these challenges, with emphasis on Generative AI. Recent advances in Generative AI, such as Large Language Models, provides a valuable opportunity to generate new representative datasets of APT attacks, without forcing organizations to disclose their sensitive information.
 
+# Workshop program
+
+<table>
+  <tr>
+    <td nowrap="nowrap">10:00 - 10:15</td>
+    <td><b>Introduction</b></td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap">10:15 - 10:35</td>
+    <td><b>Transformer or Autoencoder? Who is the ultimate adversary for attack detectors?</b><br/>S. Laudanna, A. Di Sorbo, P. Vinod, C.A. Visaggio, G. Canfora - U. Sannio<br/><details><summary>Abstract</summary>In recent years, Machine Learning (ML) approaches have been widely adopted for computer security tasks, including network intrusion detection and malware detection. However, linear and non-linear MLbased classifiers are vulnerable to adversarial examples created to deceive the classifiers. Generative Adversarial Networks (GAN) are architectures based on neural networks capable of successfully producing adversarial samples. In this study, we compare the performance of two GAN architectures based on either Transformer or Autoencoder networks in two distinct domains: Network Intrusion Detection Systems (NIDS) and mobile malware detection. We aim to evaluate their performance in terms of both effectiveness (i.e., the ability of the GAN-generated samples to reduce the detection rate of the targeted classifier) and efficiency (i.e., the capability of achieving the desired goal with fewer training epochs). Our findings reveal that the Transformerbased GAN outperforms the Autoencoder-based GAN, generating high-quality adversarial samples able to deceive both ML-based NIDS and ML-based malware detectors. Furthermore, in both scenarios, the Transformerbased architecture achieves a high deception efficacy through a reduced number of training epochs. This research sheds light on the relevance of GAN architectures, particularly Transformer-based models, and the need to consider samples produced by this architecture for improving the robustness of ML-based security solutions.</details></td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap">10:35 - 10:55</td>
+    <td><b>Measuring attack latency: construction of datasets and definition of target metrics</b><br/>A. Ceccarelli, T. Puccetti - U. Firenze<br/><details><summary>Abstract</summary></details></td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap">10:55 - 11:15</td>
+    <td><b>Towards Robotpsychlogy: new exploitation opportunities for AI's subtle prejudices</b><br/>G. Costa - IMT Lucca<br/><details><summary>Abstract</summary>Machine Learning includes several powerful techniques that are revolutionizing our society in many ways. As a result, several activities that once were regarded as prerogatives of the human brain, can now be delegated to computers. The main promise is that these algorithms are free from many flaws typical of the human nature.  In this talk we will discuss this assumption and show that, in fact, some critical weaknesses of human beings are also affecting ML, perhaps in new, surprising and subtle ways. Moreover, we will understand some of the reasons why these mistakes are difficult to be spotted out and possible techniques to detect them.</details></td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap">11:15 - 11:45</td>
+    <td><b>Break</b></td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap">11:45 - 12:05</td>
+    <td><b>Analyzing Cyber Threat Intelligence for Adversary Emulation</b><br/>D. Cotroneo, R. Natella, V. Orbinato, L. Pianese - U. Napoli Federico II<br/><details><summary>Abstract</summary>Nowadays, organizations are facing sophisticated cybersecurity attacks, known as Advanced Persistent Threats (APTs), in terms of the number of stages and variety of techniques. Knowledge about APTs can be gained from sources of Cyber Threat Intelligence (CTI), such as incident reports and leaked documents. Unfortunately, these sources are often in unstructured natural language and are not actionable for automated testing of cybersecurity defenses (Adversary Emulation). This work investigates Machine Learning (ML) techniques to extract CTI from unstructured sources to support Adversary Emulation. We analyze several ML models and strategies and evaluate their accuracy on real-world CTI documents. The experimental results show that the best accuracy can be achieved by fine-tuning Large Language Models (LLM) with our dataset of CTI, in combination with sentence clustering and summarization.</details></td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap">12:05 - 12:25</td>
+    <td><b>Handling cyber risks through an automated approach for control-based mitigation identification</b><br/>S. Bonomi, M.P. Carello, L. Querzoni - U. Roma La Sapienza<br/><details><summary>Abstract</summary>Identifying, assessing and managing cyber risks is a critical task for managing the overall cyber security of every company. The risk management process is currently well defined and supported by several standards and guidelines but it currently requires a significant effort from human operators that manually analyze vulnerabilities, identify the related risks and define the most appropriate treatment to contain the organization exposure to cyber attacks. Thus, the current implementation of the process is time consuming and requires well experienced analyst. Recently, some MAPE-K based Architectures have been proposed to partially automate the risk management process but they still rely on a preconfigured list of mitigation actions that need to be defined by humans. In our research, we take a step in this direction and we propose a method to (semi)-automatically identify and suggest the implementation of specific security controls with the aim of mitigating the identified risks. To this aim, we rely on two NLP models, based on the BERT architecture, to quantify the relevance of security controls to solve specific vulnerabilities and it turns to reduce the overall risk level.</details></td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap">12:25 - 12:45</td>
+    <td><b>Will individuals believe AI's threat intelligence?</b><br/>F. Massacci, S. Van Gerwen, K. Tuma - U. Trento/Vrije Universiteit<br/><details><summary>Abstract</summary>The uncertainty that comes with diverse intelligence sources leaves room for biased judgements, which is still not well understood. We present a controlled experiment with two groups of participants, one who is knowledgeable of the security domain and one that is knowledgeable of the AI domain to measure the bias introduced by the source of intelligence (human vs algorithmic). Each of the 𝑛 = 19 + 21 participants analyzed eight threat intelligence reports from the Dutch National Cyber Security Center where a final recommendation was manipulated as for coming from a human expert or an AI algorithm. Our findings revealed that the type of source had only an impact on the agreement with a recommendation when knowledge of the AI domain was present. The perceived bias significantly differed only when knowledge about the decision domain was present. The difference in knowledge by the groups yielded a skewed preference for AI (for the security group) and for humans (for the AI group) but not significantly. This work is supported by the NWO KIC project HEWSTI and the European Project Sec4AI4Sec.
+</details></td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap">12:45 - 13:00</td>
+    <td><b>Conclusion</b></td>
+  </tr>
+</table>
+
 
 # Call for talks
 
