@@ -56,7 +56,7 @@ This workshop aims to provide a forum for researchers from academia and industry
 </table>
 
 
-# Call for talks
+# Call for talks (expired)
 
 The workshop is open to <b>your proposal for a talk</b> at the workshop. To submit a proposal, please send an email to the organizers (see below), with subject <i>"[ITASEC 24] Workshop Talk Proposal"</i>. Please include a title, abstract, and biography of the speaker(s). Please submit your proposal by March 17, 2024.
 
@@ -83,7 +83,7 @@ Topics of interest include, but are not limited to:
 
 # Attending the workshop
 
-The workshop will be held in conjunction with the Italian Conference on Cybersecurity (ITASEC), on April 8th, 2024. Participants need to register to the conference, either for just the day of the workshop (one-day registration) or for the full period of the conference (April 8-11). For more information about the conference, please refer to <a href="https://itasec.it">https://itasec.it</a>.
+The workshop will be held in conjunction with the Italian Conference on Cybersecurity (ITASEC), on April 8th, 2024. Participants need to register to the conference, either for just the day of the workshop (one-day registration) or for the full period of the conference (April 8-12). For more information about the conference, please refer to <a href="https://itasec.it">https://itasec.it</a>.
 
 
 # Technical Programme Committee
@@ -95,8 +95,4 @@ Organizers:
 <li>Massimo Ficco, Università di Salerno (mficco AT unisa.it)</li>
 </ul>
 
-Technical Program Committee:
-<ul>
-<li>To be updated</li>
-</ul>
 
