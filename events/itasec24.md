@@ -86,9 +86,8 @@ Topics of interest include, but are not limited to:
 The workshop will be held in conjunction with the Italian Conference on Cybersecurity (ITASEC), on April 8th, 2024. Participants need to register to the conference, either for just the day of the workshop (one-day registration) or for the full period of the conference (April 8-12). For more information about the conference, please refer to <a href="https://itasec.it">https://itasec.it</a>.
 
 
-# Technical Programme Committee
+# Organizers
 
-Organizers:
 <ul>
 <li>Roberto Natella, Università di Napoli Federico II (roberto.natella AT unina.it)</li>
 <li>Andrea Ceccarelli, Università di Firenze (andrea.ceccarelli AT unifi.it)</li>
