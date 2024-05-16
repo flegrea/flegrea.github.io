@@ -14,6 +14,13 @@ GEM
       public_suffix (>= 2.0.2, < 6.0)
     base64 (0.1.1)
     bigdecimal (3.1.1)
+    bulma-clean-theme (0.14.0)
+      jekyll (>= 3.9, < 5.0)
+      jekyll-feed (~> 0.15)
+      jekyll-paginate (~> 1.1)
+      jekyll-seo-tag (~> 2.7)
+      jekyll-sitemap (~> 1.4)
+      kramdown-parser-gfm (~> 1.1)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -37,7 +44,6 @@ GEM
       faraday-net_http (>= 2.0, < 3.2)
     faraday-net_http (3.1.0)
       net-http
-    fastimage (2.3.0)
     ffi (1.16.3)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
@@ -132,9 +138,6 @@ GEM
     jekyll-github-metadata (2.13.0)
       jekyll (>= 3.4, < 5.0)
       octokit (~> 4.0, != 4.4.0)
-    jekyll-image-size (1.2.1)
-      fastimage (>= 1.8)
-      jekyll (>= 3.7)
     jekyll-include-cache (0.2.1)
       jekyll (>= 3.7, < 5.0)
     jekyll-mentions (1.6.0)
@@ -270,9 +273,9 @@ PLATFORMS
   x86_64-darwin
 
 DEPENDENCIES
+  bulma-clean-theme
   github-pages
-  jekyll-image-size (~> 1.2)
   webrick (~> 1.8)
 
 BUNDLED WITH
-   2.5.5
+   2.5.10
