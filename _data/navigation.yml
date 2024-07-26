@@ -10,12 +10,12 @@
       link: /results/datasets.html
     - name: Publications
       link: /results/publications.html
-    - name: Deliverables
-      link: /results/deliverables.html
 - name: Events
   dropdown:
     - name: ITASEC24
       link: /events/itasec24.html
+    - name: ReSAISE24
+      link: /events/resaise24.html
 - name: News
   link: /news.html
 
