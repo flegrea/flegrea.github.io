@@ -1,5 +1,5 @@
 ---
-title: "The Power of Words: Generating {PowerShell} Attacks from Natural Language"
+title: "The Power of Words: Generating PowerShell Attacks from Natural Language"
 pubvenue: 18th USENIX WOOT Conference on Offensive Technologies (WOOT 24)
 authors: P. Liguori, C. Marescalco, R. Natella, V. Orbinato, L. Pianese
 link: https://www.usenix.org/conference/woot24/presentation/liguori
