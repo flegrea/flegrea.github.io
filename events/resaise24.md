@@ -13,6 +13,6 @@ Addressing the reliability and security aspects of AI-based solutions for SE inv
 
 The workshop aims to bring together researchers and industrial practitioners from both AI and SE communities to collaborate, share experiences, provide directions for future research, and encourage the use of reliable and secure AI solutions for addressing software engineering-specific challenges. We encourage submissions targeting interdisciplinary research, in particular those listed in the topics of interest.
 
-To find more information about the workshop, visit the webpage at: <a href="https://resaise.github.io/2024/" target="_new">https://resaise.github.io/2024/</a>
+The workshop is partially supported by the FLEGREA project of the MUR PRIN 2022 program. To find more information about the workshop, visit the webpage at: <a href="https://resaise.github.io/2024/" target="_new">https://resaise.github.io/2024/</a>
 
 
