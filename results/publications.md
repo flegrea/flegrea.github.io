@@ -13,17 +13,22 @@ title: Publications
 
   </ul>
 
-   {% if paper.link %}
-   <a href="{{ paper.link }}" target="_blank"><img src="/assets/images/button_publisher.png"></a>
-   {% endif %}
-   {% if paper.arxiv %}
-   <a href="{{ paper.arxiv }}" target="_blank"><img src="/assets/images/button_arxiv.png"></a>
-   {% endif %}
-   {% if paper.dataset %}
-   {% assign dataset = site.datasets | where:"name", paper.dataset | first %}
-   <a href="{{ dataset.link }}" target="_blank"><img src="/assets/images/button_dataset.png"></a>
-   {% endif %}
+  <details><summary>Abstract</summary>{{ paper.content | markdownify }}</details>
+  <br/>
 
-  <p>{{ paper.content | markdownify }}</p>
+   {%- if paper.link -%}
+   <a href="{{ paper.link }}" target="_blank" style="padding: 0.5em 1em;background-color: lightblue;color: black; font-weight: bold">Published paper</a>
+   {%- endif -%}
+
+   {%- if paper.arxiv -%}
+   &nbsp;
+   <a href="{{ paper.arxiv }}" target="_blank" style="padding: 0.5em 1em;background-color: orange; color: black; font-weight: bold">arXiv</a>
+   {%- endif -%}
+
+   {%- if paper.dataset -%}
+   {% assign dataset = site.datasets | where:"name", paper.dataset | first %}
+   <a href="{{ dataset.link }}" target="_blank" style="padding: 0.5em 1em;background-color: red;color: black; font-weight: bold">Dataset</a>
+   {%- endif -%}
+
 
 {% endfor %}

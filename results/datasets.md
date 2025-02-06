@@ -28,8 +28,8 @@ title: Datasets
 
   </ul>
 
-  <a href="{{ dataset.link }}" target="_blank"><img src="/assets/images/button_dataset.png"></a> {% if paper.link %} <a href="{{ paper.link }}" target="_blank"><img src="/assets/images/button_publisher.png"></a> {% endif %} {% if paper.arxiv %} <a href="{{ paper.arxiv }}" target="_blank"><img src="/assets/images/button_arxiv.png"></a> {% endif %}
+  <a href="{{ dataset.link }}" target="_blank" style="padding: 0.5em 1em;background-color: red;color: black; font-weight: bold">Dataset</a> {% if paper.link %} <a href="{{ paper.link }}" target="_blank" style="padding: 0.5em 1em;background-color: lightblue;color: black; font-weight: bold">Published paper</a> {% endif %} {% if paper.arxiv %} <a href="{{ paper.arxiv }}" target="_blank" style="padding: 0.5em 1em;background-color: orange; color: black; font-weight: bold">arXiv</a> {% endif %}
 
-  <p>{{ dataset.content | markdownify }}</p>
+  <details><summary>Additional information</summary>{{ dataset.content | markdownify }}</details>
 
 {% endfor %}
