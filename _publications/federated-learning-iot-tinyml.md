@@ -4,6 +4,7 @@ pubvenue: Information Fusion
 authors: M. Ficco, A. Guerriero, E. Milite, F. Palmieri, R. Pietrantuono, S. Russo
 link: https://doi.org/10.1016/j.inffus.2023.102189
 date: April 2024
+tags: tinyml iot federated-learning
 ---
 The spread of the Internet of Things (IoT) involving an uncountable number of applications, combined with the rise of Machine Learning (ML), has enabled the rapid growth of pervasive and intelligent systems in a variety of domains, including healthcare, environment, railway transportation and Industry 4.0. While this opens up favorable scenarios, it also raises new challenges. The huge amount of data collected and processed by ML applications requires efficient and scalable solutions that contrast with the constrained capabilities of IoT devices as for memory, power consumption, processing and network bandwidth. The TinyML technologies foster the adoption of ML algorithms running locally on IoT devices. However, they typically foresee a remote training process (e.g., on cloud servers) combined with local inference – a strategy not always viable, e.g., for privacy and security issues.
 

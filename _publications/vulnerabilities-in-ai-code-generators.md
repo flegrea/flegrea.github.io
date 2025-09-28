@@ -6,6 +6,7 @@ link: https://doi.org/10.1145/3643916.3644416
 arxiv: https://arxiv.org/abs/2308.04451
 date: April 2024
 dataset: PoisonPy
+tags: ai-code-generators
 ---
 AI-based code generators have become pivotal in assisting developers in writing software starting from natural language (NL). However, they are trained on large amounts of data, often collected from unsanitized online sources (e.g., GitHub, HuggingFace). As a consequence, AI models become an easy target for data poisoning, i.e., an attack that injects malicious samples into the training data to generate vulnerable code.
 
