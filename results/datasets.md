@@ -16,9 +16,9 @@ title: Datasets
   {% endif %}
 
   {% if dataset.date %}
-  <li>Date: <i>{{ dataset.date | date_to_string }}</i></li>
+  <li>Date: <i>{{ dataset.date | date: "%B %Y" }}</i></li>
   {% elsif paper.date %}
-  <li>Date: <i>{{ paper.date | date_to_string }}</i></li>
+  <li>Date: <i>{{ paper.date | date: "%B %Y" }}</i></li>
   {% endif %}
 
   {% if paper %}
