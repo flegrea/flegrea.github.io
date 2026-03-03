@@ -8,7 +8,7 @@ title: Publications
 
 <br/>
 
-{% for paper in site.publications %}
+{% for paper in site.publications reversed %}
 
 <div class="paper" tags="{% for tag in paper.tags %}{{tag}}{% if forloop.last == false %}{{" "}}{% endif %}{% endfor %} _all">
   <h2>{{ paper.title }}</h2>
